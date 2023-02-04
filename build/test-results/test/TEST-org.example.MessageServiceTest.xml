@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MessageServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-04T14:46:15" hostname="MacBook-Pro-George.local" time="0.349">
+  <properties/>
+  <testcase name="sendMessageNotValidIP()" classname="org.example.MessageServiceTest" time="0.347"/>
+  <testcase name="sendMessageSuccessfully()" classname="org.example.MessageServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
